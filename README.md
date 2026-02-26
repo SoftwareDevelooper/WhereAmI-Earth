@@ -1,7 +1,7 @@
 # 🌍 GeoAtlas - Country Explorer App
 
 A dynamic, asynchronous JavaScript application that allows users to discover detailed information about any country in the world. Users can manually search for a country or use their browser's built-in Geolocation API to instantly fetch data about their current location.
-https://softwaredevelooper.github.io/WhereAmI-Earth/
+https://enes-sahin-eng.github.io/WhereAmI-Earth/
 ## ✨ Features
 
 * **Location Detection:** Uses the Geolocation API to find the user's coordinates and reverse-geocodes it to find their current country.
