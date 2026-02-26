@@ -32,6 +32,4 @@ This project was built in two phases to demonstrate a deep understanding of Java
 
 By comparing the two versions, you can see the practical benefits of modern JavaScript in handling asynchronous API calls.
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+
